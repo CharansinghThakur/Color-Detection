@@ -25,3 +25,7 @@ pip install argparse
 ```bash
 python color_detection.py -i <path of image file>
 ```
+## Output
+
+![output](output.PNG)
+
