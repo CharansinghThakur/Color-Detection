@@ -2,11 +2,11 @@
 Color Detection in an Image
 
 ## Packages
-*OpenCV
+* OpenCV
 ```bash
 pip install opencv-python
 ```
-*Pandas
+* Pandas
 ```bash
 pip install pandas
 ```
