@@ -27,5 +27,15 @@ python color_detection.py -i <path of image file>
 ```
 ## Output
 
+It clearly identifies the color of the selected area in the image.
+
 ![output](output.PNG)
+
+## Conclusion 
+
+   * Successfully detects the color of the part of the image using computer vision.
+   
+## License
+
+This project is licensed under the **MIT** License - see the [LICENSE.md](LICENSE)
 
