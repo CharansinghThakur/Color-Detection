@@ -21,3 +21,7 @@ The argparse module makes it easy to write user friendly command line interfaces
 pip install argparse
 ```
 
+## Run Python File
+```bash
+python color_detection.py -i <path of image file>
+```
