@@ -2,17 +2,20 @@
 Color Detection in an Image
 
 ## Packages
-* OpenCV *
+* OpenCV 
+
 Wrapper package for OpenCV python bindings.
 ```bash
 pip install opencv-python
 ```
-* Pandas *
+* Pandas 
+
 Powerful data structures for data analysis, time series, and statistics.
 ```bash
 pip install pandas
 ```
-* argparse *
+* argparse 
+
 The argparse module makes it easy to write user friendly command line interfaces.
 ```bash
 pip install argparse
